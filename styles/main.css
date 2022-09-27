@@ -4,7 +4,6 @@
     margin: 0 auto;
     padding: 20px;
     border-radius: 5px;
-
 }
 
 .nav-bar {
@@ -26,12 +25,14 @@
 .footer {
     border: 1px solid green;
 }
+
 .footer-content {
     display: flex;
     list-style-type: none;
     justify-content: center;
     border: 1px solid black;
 }
+
 .footer-content li {
     margin: 5px;
     padding: 5px;
