@@ -14,12 +14,6 @@
     font-size: 20px;
 }
 
-.sub-navbar {
-    display: flex;
-    list-style-type: none;
-    gap: 10px;
-}
-
 .container {
     display: flex;
     flex-direction: row;
