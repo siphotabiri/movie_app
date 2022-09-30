@@ -1,5 +1,5 @@
 body {
-    background-color:ghostwhite;
+    background-color:black;
     border: 1px solid black;
     margin: 0px;
 }
@@ -45,7 +45,6 @@ body {
 
 .grid-picture {
     max-width: 18vw;
-
 }
 
 .footer-content {
