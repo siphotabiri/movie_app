@@ -1,12 +1,13 @@
 body {
     background-color:ghostwhite;
+    border: 1px solid black;
+    margin: 0px;
 }
 .header, .footer {
     background-color: #9400FF;
-    margin: 0 auto;
     padding: 20px;
-    border-radius: 5px;
     color: white;
+    border: 1px solid black;
 }
 
 .nav-bar {
