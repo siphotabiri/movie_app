@@ -43,8 +43,9 @@ body {
     border-radius: 5px;
 }
 
-.footer {
-    border: 1px solid green;
+.grid-picture {
+    max-width: 18vw;
+
 }
 
 .footer-content {
