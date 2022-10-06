@@ -8,6 +8,7 @@ body {
     padding: 20px;
     color: white;
     border: 1px solid black;
+    border-radius: 5px;
 }
 
 .nav-bar {
